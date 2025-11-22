@@ -1,6 +1,6 @@
 # Secret Wall
 
-A secure web application where users can anonymously share and view secrets. Built with Node.js, Express, and PostgreSQL, featuring local authentication and Google OAuth integration.
+A web application for anonymous secret sharing with secure authentication. Users can register, login with email/password or Google, and share secrets privately.
 
 ## Features
 
